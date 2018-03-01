@@ -3,6 +3,7 @@
     age: 25,
     country: 'Poland'
 };
+person.height = 175;
 for (var attrName in person) {
 
     console.log(attrName);
